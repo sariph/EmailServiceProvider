@@ -1,0 +1,4 @@
+john@apple.com
+jack@google.com
+emily@health.com
+joshua@xyz.org
