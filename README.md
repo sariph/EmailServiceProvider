@@ -17,7 +17,7 @@ joe@npr.org</br>
 cde@yahoo.com</br>
 </br>
 </br>
-<b>Program Summary</b>
+<b>Program Summary:</b></br>
 The program uses a separate Comparator Class for Sorting Email.</br>
 The program uses Spring Framework for Autowiring/Dependency Injection</br>
 The program uses Mockito for Testing, Mocks, Spy Objects</br>
